@@ -46,7 +46,7 @@ your own.
   titles usually have to follow the convention `YYYY-MM-DD-title-of-my-post.md`.
 - To change general settings like title, taglines etc, go to `_config.yml` or
   `_data/setting.yml`.
-- To add pdfs, `[get the PDF]({{ site.url }}/assets/mydoc.pdf)`.
+- To add pdfs, if you are using a project page built on gh-pages, first go to the directory that you push to github, and put `baseurl: '/projectname'` on `_config.yaml`, and use `[get the PDF]({{ site.baseurl }}/assets/mydoc.pdf)`. (Don't do this for your local build directory)
 - To add external links, `[site](url)`
 - To add internal links, see [here](https://stackoverflow.com/questions/4629675/jekyll-markdown-internal-links).
 - To add color to text, `<span style="color:blue">personal website using RMarkdown
