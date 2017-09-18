@@ -2,4 +2,11 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-01-01-Welcome-to-Lagrange %}).
+
+I'm Zoey, a master's student of statistics at the University of Michigan, Ann
+Arbor. I completed my undergraduate education at UC Berkeley in 2015. 
+
+![]({{ site.baseurl }}/assets/img/japan_me.jpg)
+This is me at Osaka, Japan. 
+
+[comment]: <> (![]({{ site.baseurl }}/assets/img/japan_me.jpg))

@@ -3,6 +3,26 @@ layout: default
 title: Home
 ---
 
+
+<div>
+    <p style="float: left; padding-right: 50px">
+    <img src="{{ site.baseurl }}/assets/img/japan_me_crop.jpg" alt = "Pictureofme"
+         style="width:228px;height:228px"/>
+    </p>
+    <p style="font-size:20px">
+    A few things: 
+    </p>
+
+    <ul>
+        <li>Ongoing project: Bayesian inference and fMRI data</li>
+        <li>Flux scripts (HPC)</li>
+    </ul>
+</div>
+
+<div style="clear: left; padding-bottom : 50px"></div>
+
+
+
 {% for post in paginator.posts %}
 <div class="posts">
   <h1>
@@ -18,7 +38,6 @@ title: Home
 </div>
 {% endfor %}
 
-<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>

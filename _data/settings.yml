@@ -1,25 +1,27 @@
-title:  Lagrange
-tagline:  a minimalist Jekyll theme
-
-# Authors documented under _data
+title: Zoey Li 
+#tagline: Rainbow 
+author:
+  name: 'Zoey Li'
 
 # Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+#disqus:
+#  comments: false
+#  disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
-google-ID: 'UA-80213386-1'
+Google-ID: 'UA-104932461-1'
 
 menu:
 - {name: 'About', url: 'about.html'}
+- {name: 'Projects', url: 'projects.html'}
 - {name: 'Writing', url: 'writing.html'}
+- {name: 'CV', url: 'CV.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
-- {icon: 'rss-square', link: '\feed.xml'}
+- {icon: 'github', link: 'https://www.github.com/lizeyuyuz'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lizeyuyuz'}
+- {icon: 'envelope', link: 'mailto:lizeyu@umich.com'}
+  #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+  # - {icon: 'instagram', link: 'https://instagram.com/lizeyuyuz'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
