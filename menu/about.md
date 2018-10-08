@@ -3,8 +3,28 @@ layout: page
 title: About
 ---
 
-I'm Zoey, a master's student of statistics at the University of Michigan, Ann
-Arbor. I completed my undergraduate education at UC Berkeley in 2015. 
+Hello! My name is Zoey. 
+
+I graduated from University of California, Berkeley with B.A. in Economics and
+Statistics, and from University of Michigan, Ann Arbor, with M.S. in Applied
+Statistics. 
+
+Here are a few things I'm experienced with: 
+
++ R
++ SQL
++ Python
++ Vim
++ LaTeX
++ Git
+
+Here are a few things I've experimented with: 
++ C++
++ HTML & CSS
++ Jekyll
++ Hadoop
++ Spark
++ SAS
 
 ![]({{ site.baseurl }}/assets/img/japan_me.jpg)
 This is me at Osaka, Japan. 
