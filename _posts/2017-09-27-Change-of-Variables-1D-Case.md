@@ -8,4 +8,6 @@ tags: [probability]
 
 A brief review note on the derivation: 
 
-[Notes change of variables 1D case]({{ site.baseurl }}/assets/academic_notes/2017_09_26_change_of_variable_1D.pdf)
+[Notes on change of variables 1D case]({{ site.baseurl }}/assets/academic_notes/2017_09_26_change_of_variable_1D.pdf)
+
+
